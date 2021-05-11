@@ -37,26 +37,26 @@ class Footer extends Component{
                   </p>
                   <span class="inline-flex sm:ml-auto justify-center sm:justify-start md:mt-0 mt-4">
                       <a class="transform hover:scale-110 hover:text-indigo-700"
-                          href="https://www.facebook.com/punit.raj.355744/" target="_blank">
+                          href="https://www.facebook.com/prakhar.srivastava.5070" target="_blank">
                           <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                               class="w-5 h-5" viewBox="0 0 24 24">
                               <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                           </svg>
                       </a>
                       <a class="ml-3 transform hover:scale-110 hover:text-indigo-700"
-                          href="https://www.instagram.com/raj.punit3299/" target="_blank">
+                          href="https://www.instagram.com/prakhar_246/" target="_blank">
                           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                               stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
                               <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
                               <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
                           </svg>
                       </a>
-                      <a class="ml-3" href="https://github.com/punit3299" target="_blank">
+                      <a class="ml-3" href="https://github.com/Prakhar2461998" target="_blank">
                           <img src="https://image.flaticon.com/icons/png/512/25/25231.png"
                               class="w-5 h-5 transform hover:scale-110 hover:text-indigo-700" />
                       </a>
                       <a class="ml-3 transform hover:scale-110 hover:text-indigo-700"
-                          href="https://www.linkedin.com/in/punit-raj-6765aba4/" target="_blank">
+                          href="https://www.linkedin.com/in/prakhar-srivastava-5a33771b1/" target="_blank">
                           <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                               stroke-width="0" class="w-5 h-5" viewBox="0 0 24 24">
                               <path stroke="none"
