@@ -34,7 +34,7 @@ import GitHub from './GitHub.png'
         <div class="h-full shadow-2xl flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-right flex-shrink-0 rounded-full mr-4" src={Javascript} />
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">JAVASCRIPT</h2>
+            <h2 class="text-gray-900 transition delay-150 duration-300 ease-in-out title-font font-medium">JAVASCRIPT</h2>
             <p class="text-gray-500"></p>
           </div>
         </div>
